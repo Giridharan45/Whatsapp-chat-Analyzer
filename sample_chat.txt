@@ -1,0 +1,28 @@
+15/01/24, 09:30 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+15/01/24, 09:30 - Alex: Good morning everyone! 🚀 Ready for our project sprint this week?
+15/01/24, 09:31 - Priya: Morning Alex! Yes, absolutely. I finished the dataset preprocessing yesterday. 👍
+15/01/24, 09:32 - Rahul: Hey guys! That's awesome Priya. Did you upload the clean data to GitHub?
+15/01/24, 09:33 - Priya: Yes, check the repository link here: https://github.com/project/data-repo
+15/01/24, 09:35 - Sara: Thanks Priya! I am working on the Streamlit dashboard layout right now. It's looking really clean and modern. ✨
+15/01/24, 09:38 - Alex: <Media omitted>
+15/01/24, 09:39 - Alex: Here is the proposed UI wireframe mockup for our dashboard. Let me know what you think!
+15/01/24, 09:40 - Sara: Love the color scheme! The dark mode with teal and violet accents is gorgeous 🔥
+15/01/24, 09:42 - Rahul: Agreed! What about the NLP sentiment model? Are we using TextBlob or VADER?
+15/01/24, 09:45 - Priya: We can use TextBlob for polarity and subjectivity calculation. It's fast, accurate, and lightweight.
+15/01/24, 09:48 - Alex: Perfect plan. Let's make sure we also support both 12-hour and 24-hour timestamp formats from WhatsApp.
+15/01/24, 10:00 - Rahul: <Media omitted>
+15/01/24, 10:05 - Rahul: Found this helpful tutorial on WhatsApp regex parsing: https://towardsdatascience.com/whatsapp-analysis
+15/01/24, 10:15 - Sara: Super helpful article! I integrated the emoji and link extractor already. 🎉
+15/01/24, 11:30 - Alex: Quick check-in team: how are the visualization components coming along?
+15/01/24, 11:32 - Sara: Word cloud and hourly heatmaps are working smoothly! 📊
+15/01/24, 11:35 - Priya: Great work Sara! I'm adding SQLite database support so we can save analysis sessions and chatbot conversation logs.
+15/01/24, 12:10 - Rahul: That will make the viva presentation so impressive! Examiners love seeing a working database layer. 💯
+15/01/24, 14:20 - Alex: Anyone free for a quick sync at 4 PM?
+15/01/24, 14:22 - Priya: I'm free! 👍
+15/01/24, 14:23 - Sara: Me too! Let's do it on Google Meet.
+15/01/24, 14:25 - Rahul: Count me in. See you all at 4 PM! 😊
+16/01/24, 10:00 - Alex: Great meeting yesterday. I tested the chatbot assistant and it correctly identified top senders and busiest hours!
+16/01/24, 10:15 - Priya: Awesome! Let's do a complete dry run today and test with different chat files.
+16/01/24, 10:20 - Sara: <Media omitted>
+16/01/24, 10:22 - Sara: Check this screenshot of the sentiment analysis tab! All positive and neutral ratios look clean.
+16/01/24, 11:00 - Rahul: Fantastic job everyone! We are ready for deployment on Streamlit Cloud. 🚀🌟
